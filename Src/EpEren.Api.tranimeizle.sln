@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpEren.Api.tranimeizle", "EpEren.Api.tranimeizle\EpEren.Api.tranimeizle.csproj", "{F4575821-3E02-4651-8E82-500BE8D33A23}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4575821-3E02-4651-8E82-500BE8D33A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4575821-3E02-4651-8E82-500BE8D33A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4575821-3E02-4651-8E82-500BE8D33A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4575821-3E02-4651-8E82-500BE8D33A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD07327F-433E-4D6E-835E-8437FCCA0F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD07327F-433E-4D6E-835E-8437FCCA0F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD07327F-433E-4D6E-835E-8437FCCA0F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD07327F-433E-4D6E-835E-8437FCCA0F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADCA719F-6ACD-49C0-9541-B03CA024028D}
+	EndGlobalSection
+EndGlobal
