@@ -1,4 +1,4 @@
-# TrAnimeIzleBotSharp
+# TrAnimeIzleBotSharp / TrAnimeİzle Botu / tranimeizle botu / Anime Botu | .Net
 Botun çalışma prensibi bir kullanıcı gibi  **tranimeizle.net** adresine girerek **HtmlParser** mantığında alanları (**div**/**section**/**vb..**) parçalıyor ve size özel **object**ler olarak döndürüyor
 
 ---
